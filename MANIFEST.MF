@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Class-Path: lib/SwingSets3(BeautyEyeLNFDemo).jar
+Main-Class: com.it.WindowsFrame
